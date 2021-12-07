@@ -1,0 +1,138 @@
+@charset "utf-8";
+/* CSS Document */
+.header{
+	height:100px;
+	width:auto;
+	border-radius:5px;
+	background-image:url(../images/flag.jpe);
+	background-size:160px;
+
+	
+	}
+h3{
+	position:relative;
+	top:50%;
+	transform:translateY(-55%);
+	font-size:15px;
+	text-align:center;
+	margin:0px;
+	font-family:"Century Gothic";
+}
+.h3a
+{
+	position:relative;
+	top:50%;
+	transform:translateY(-55%);
+	font-size:25px;
+	text-align:center;
+	margin:0px;
+	font-family:"Century Gothic";
+}
+	
+	
+	
+.navbar{
+	height:30px;
+	width:auto;
+	background:green;
+	border-radius:5px;
+	margin-bottom:10px;
+	margin-top:10px;
+	}
+	
+		
+.navbar ul {
+	padding: 5px;
+	list-style-type:none;
+	margin-left:510px;
+	border-radius: 5px;
+	}
+	
+.navbar ul li {
+	display:inline;
+	padding: 2.6em;
+	
+	
+	}
+	
+.navbar ul li a {
+	text-decoration:none;
+	font-family:Arial;
+	color: #fff;
+	}
+.navbar ul li a:hover{
+	background:orange;
+}
+
+
+.footer{
+	height:30px;
+	width:auto;
+	background-color:orange;
+	COLOR:white;
+	text-align:center;
+	margin-top:10px;
+	clear:both;
+	border-radius:5px;
+	padding:15px;
+}
+
+a.a1{
+	text-decoration:none;
+	color:yellow;
+	    
+	}
+	
+	.a2{
+	text-decoration:none;
+	font-family:Arial;
+	color: white;
+}
+.a3{
+	text-decoration:none;
+	font-family:Arial;
+	color: yellow;
+}
+.a3:hover{
+	background:red;
+}
+	
+.a2:hover{
+	background:orange;
+}
+.p2{
+	font-size:18px;
+	color:black;
+	word-spacing:5px;
+}
+
+#iafdiv1{
+	height:50px;
+	width:auto;
+	background:blue;
+	border-radius:10px;
+	text-align:center;
+	top:5px;
+	font-size:40px;
+	padding-bottom:0.14em;
+	margin-bottom:10px;	
+	color:white;
+}
+
+
+#iafdiv2{
+	height:auto;
+	width:auto;
+	background:white;
+	border:2px solid blue;
+	color:blue;
+}
+
+.main{
+	width:auto;
+	height:auto;
+	background-color:orange;
+	clear:both;
+	border-radius:5px;
+	margin-bottom:10px;
+}

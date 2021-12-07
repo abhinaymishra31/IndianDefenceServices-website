@@ -1,0 +1,224 @@
+@charset "utf-8";
+/* CSS Document */
+@charset "utf-8";
+/* CSS Document */
+.header{
+	height:100px;
+	width:auto;
+	border-radius:5px;
+	background-image:url(../images/flag.jpe);
+	background-size:160px;
+
+	
+	}
+h3{
+	position:relative;
+	top:50%;
+	transform:translateY(-55%);
+	font-size:15px;
+	text-align:center;
+	margin-top:10px;
+	font-family:"Century Gothic";
+}
+	
+	
+.navbar{
+	height:30px;
+	width:auto;
+	background:green;
+	border-radius:5px;
+	margin-bottom:10px;
+	margin-top:10px;
+	}
+	
+		
+.navbar ul {
+	padding: 5px;
+	list-style-type:none;
+	margin-left:510px;
+	border-radius: 5px;
+	}
+	
+.navbar ul li {
+	display:inline;
+	padding: 2.6em;
+	
+	
+	}
+	
+.navbar ul li a {
+	text-decoration:none;
+	font-family:Arial;
+	color: #fff;
+	}
+.navbar ul li a:hover{
+	background:orange;
+}
+
+#carmain{
+	width:652px;
+	height:500px;
+	background-color:lightblue;
+	padding-left:0em;
+	padding-right:0em;
+	border-radius:5px;
+	margin-bottom:10px;
+	margin-left:1.3px;
+	margin-right:10px;
+	border:1px solid blue;
+	float:left;
+}
+.matter_1{
+	width:652px;
+	height:500px;
+	background-color:white;
+	padding-left:0em;
+	padding-right:0em;
+	border-radius:5px;
+	margin-bottom:10px;
+	margin-left:1.3px;
+	margin-right:10px;
+	border:1px solid blue;
+	float:left;
+}
+
+#carmain h4.h4a{
+	font-size:20px;
+	text-decoration:underline;
+	color:darkblue;
+	padding-top:0.5em;
+	padding-bottom:0.5em;
+	text-align:center;	
+}
+  
+#carmain1{
+	width:660px;
+	height:500px;
+	background-color:white;
+	padding-left:0em;
+	padding-right:0em;
+	border-radius:5px;
+	margin-bottom:10px;
+	border:1px solid blue;
+	float:right;		
+}
+
+#carmain1 h4.h4a{
+	font-size:20px;
+	text-decoration:underline;
+	color:darkblue;
+	padding-top:0.5em;
+	padding-bottom:0.5em;
+	text-align:center;	
+}
+.navydiv1{
+	height:50px;
+	width:auto;
+	background:white;
+	border-radius:10px;
+	text-align:center;
+	top:5px;
+	font-size:40px;
+	padding-bottom:0.14em;
+	margin-bottom:10px;	
+	color:blue;
+}
+
+
+.navydiv2{
+	height:auto;
+	width:auto;
+	background:blue;
+	color:white;
+	border:2px solid blue;
+}
+
+.main{
+	width:auto;
+	height:auto;
+	background-color:orange;
+	
+	clear:both;
+	border-radius:5px;
+	margin-bottom:10px;
+}
+
+
+.footer{
+	height:30px;
+	width:auto;
+	background-color:orange;
+	COLOR:white;
+	text-align:center;
+	margin-top:10px;
+	clear:both;
+	border-radius:5px;
+	padding:15px;
+}
+
+a.a1{
+	text-decoration:none;
+	color:yellow;
+	    
+	}
+	
+p.p1{
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size:20px;
+	color:black;
+	text-transform:uppercase;
+	text-style:bold;
+	word-spacing:3px;
+}
+h4.h4b{
+	font-size:20px;
+	background:lightblue;
+	text-transform:uppercase;
+	text-decoration:underline;
+	text-align:center;
+	color:blue;
+}
+.h4c{
+	font-size:20px;
+	background:lightblue;
+	text-transform:uppercase;
+	text-decoration:underline;
+	text-align:center;
+	color:blue;
+}
+
+
+.a2{
+	text-decoration:none;
+	font-family:Arial;
+	color:white;
+}
+.a2:hover{
+	background:orange;
+}
+.a3{
+	text-decoration:none;
+	font-family:Arial;
+	color: yellow;
+}
+.a3:hover{
+	background:red;
+}
+.matter{
+	width:auto;
+	height:auto;
+	background:grey;
+	color:black;
+	font-size:15px;
+}
+.p2{
+	font-size:18px;
+	color:black;
+	word-spacing:5px;
+}
+
+
+
+
+	
+

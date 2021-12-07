@@ -1,0 +1,130 @@
+@charset "utf-8";
+/* CSS Document */
+#header{
+	height:100px;
+	width:100%;
+	border-radius:5px;
+	background-image:url(../images/flag.jpe);
+	background-size:160px;	
+	}
+b.b2{
+	position:relative;
+	top:50%;
+	transform:translateY(-55%);
+	margin-left:200px;
+	text-align:center;
+	margin:0px;
+	font-family:"Century Gothic";
+}
+
+
+.container{
+	height:auto;
+	width:auto;
+	background:yellow;
+	margin-top:10px;
+	clear:both;
+}
+	
+	
+	#navbar{
+	height:30px;
+	width:auto;
+	background:green;
+	border-radius:5px;
+	margin-bottom:10px;
+	margin-top:10px;
+	}
+
+
+
+
+#triservices{
+	height:300px;
+	width:50%;
+	float:left;
+	background:#E5BFC0;
+	margin-bottom:10px;
+}
+#force{
+	height:300px;
+	width:50%;;
+	float:right;
+	background:#E5BFC0;
+	margin-bottom:10px;
+	}
+	
+#navbar ul {
+	padding: 5px;
+	list-style-type:none;
+	margin-left:510px;
+	border-radius: 5px;
+	}
+	
+#navbar ul li {
+	display:inline;
+	padding: 2.6em;
+	
+	
+	}
+	
+#navbar ul li a {
+	text-decoration:none;
+	font-family:Arial;
+	color: #fff;
+	
+
+}
+.a2{
+	text-decoration:none;
+	font-family:Arial;
+	color: #fff;
+}
+.a2:hover{
+	background:orange;
+}
+
+#navbar ul li a:hover{
+	background:orange;
+}
+
+
+
+
+
+.main{
+	width:auto;
+	height:auto;
+	margin-top:10px;
+	clear:both;
+	border-radius:5px;
+	
+}
+
+#footer{
+	height:30px;
+	width:auto;
+	background-color:orange;
+	COLOR:white;
+	text-align:center;
+	margin-top:10px;
+	clear:both;
+	border-radius:5px;
+	padding:15px;
+}
+
+
+b.b1{
+	font-size:10px;
+	text-decoration:none;
+	margin-left:30px;
+	padding:0px;
+	background-color:green;
+	margin-top:0px;
+}
+
+u.u1{
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size:20px;
+}
+	
